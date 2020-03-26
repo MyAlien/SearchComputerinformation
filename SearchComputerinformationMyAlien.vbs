@@ -74,4 +74,4 @@ next
 
 
 'Msgbox Info1 & chr(13) & Info2 & chr(13) & Info3 & chr(13) & chr(13) & Info4 & chr(13) & Info5
-r= MsgBox(Info1 & chr(13) & Info3 & chr(13) & Info2 & chr(13) & chr(13) & Info4 & chr(13) & Info7 & chr(13) & Info5, vbOKOnly + vbInformation, "System Informations ContiHelp | IT DS LOCAL | TS FX OU") 
+r= MsgBox(Info1 & chr(13) & Info3 & chr(13) & Info2 & chr(13) & chr(13) & Info4 & chr(13) & Info7 & chr(13) & Info5, vbOKOnly + vbInformation, "System Informations |") 
